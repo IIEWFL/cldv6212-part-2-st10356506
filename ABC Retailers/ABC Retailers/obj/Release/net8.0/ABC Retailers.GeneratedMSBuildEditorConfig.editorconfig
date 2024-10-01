@@ -1,0 +1,79 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ABC_Retailers
+build_property.RootNamespace = ABC_Retailers
+build_property.ProjectDir = C:\Users\HP\OneDrive\Documents\GitHub\cldv6212-part-1-st10356506\Part 1\ABC Retailers\ABC Retailers\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\HP\OneDrive\Documents\GitHub\cldv6212-part-1-st10356506\Part 1\ABC Retailers\ABC Retailers
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/HP/OneDrive/Documents/GitHub/cldv6212-part-1-st10356506/Part 1/ABC Retailers/ABC Retailers/Views/Customer/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/OneDrive/Documents/GitHub/cldv6212-part-1-st10356506/Part 1/ABC Retailers/ABC Retailers/Views/Customer/NewCustomer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcTmV3Q3VzdG9tZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/OneDrive/Documents/GitHub/cldv6212-part-1-st10356506/Part 1/ABC Retailers/ABC Retailers/Views/File/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/OneDrive/Documents/GitHub/cldv6212-part-1-st10356506/Part 1/ABC Retailers/ABC Retailers/Views/File/NewFile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsZVxOZXdGaWxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/OneDrive/Documents/GitHub/cldv6212-part-1-st10356506/Part 1/ABC Retailers/ABC Retailers/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/OneDrive/Documents/GitHub/cldv6212-part-1-st10356506/Part 1/ABC Retailers/ABC Retailers/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/OneDrive/Documents/GitHub/cldv6212-part-1-st10356506/Part 1/ABC Retailers/ABC Retailers/Views/Order/NewOrder.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcTmV3T3JkZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/OneDrive/Documents/GitHub/cldv6212-part-1-st10356506/Part 1/ABC Retailers/ABC Retailers/Views/Order/OrderSuccess.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcT3JkZXJTdWNjZXNzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/OneDrive/Documents/GitHub/cldv6212-part-1-st10356506/Part 1/ABC Retailers/ABC Retailers/Views/Product/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/OneDrive/Documents/GitHub/cldv6212-part-1-st10356506/Part 1/ABC Retailers/ABC Retailers/Views/Product/NewProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxOZXdQcm9kdWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/OneDrive/Documents/GitHub/cldv6212-part-1-st10356506/Part 1/ABC Retailers/ABC Retailers/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/OneDrive/Documents/GitHub/cldv6212-part-1-st10356506/Part 1/ABC Retailers/ABC Retailers/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/OneDrive/Documents/GitHub/cldv6212-part-1-st10356506/Part 1/ABC Retailers/ABC Retailers/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/OneDrive/Documents/GitHub/cldv6212-part-1-st10356506/Part 1/ABC Retailers/ABC Retailers/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/OneDrive/Documents/GitHub/cldv6212-part-1-st10356506/Part 1/ABC Retailers/ABC Retailers/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-1w3sg0p009

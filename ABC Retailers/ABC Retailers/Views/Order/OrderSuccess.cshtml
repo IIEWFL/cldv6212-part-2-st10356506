@@ -1,0 +1,91 @@
+﻿@model string
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   @*  page to be displayed after order is successful *@
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Order Success</title>
+    <link href="https://fonts.googleapis.com/css?family=Nunito+Sans:400,400i,700,900&display=swap" rel="stylesheet">
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: "Nunito Sans", "Helvetica Neue", sans-serif;
+            background: #EBF0F5;
+        }
+
+        .card {
+            background: white;
+            padding: 60px;
+            border-radius: 8px;
+            box-shadow: 0 2px 3px rgba(0, 0, 0, 0.1);
+            max-width: 600px;
+            margin: 0 auto;
+            text-align: center;
+        }
+
+        .icon-container {
+            position: center;
+            border-radius: 50%;
+            height: 100px;
+            width: 100px;
+            background: #F8FAF5;
+            margin: 0 auto;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+            .icon-container i {
+                color: forestgreen;
+                font-size: 60px;
+            }
+
+        h1 {
+            color: forestgreen;
+            font-weight: 900;
+            font-size: 36px;
+            margin-bottom: 10px;
+        }
+
+        p {
+            color: forestgreen;
+            font-size: 18px;
+            margin: 0;
+        }
+
+        .btn-primary {
+            display: inline-block;
+            padding: 10px 20px;
+            margin-top: 20px;
+            background-color: forestgreen;
+            color: white;
+            text-decoration: none;
+            border-radius: 4px;
+            font-size: 16px;
+            text-align: center;
+        }
+
+            .btn-primary:hover {
+                background-color: #76a043;
+            }
+    </style>
+</head>
+<body>
+ 
+
+    <div class="content">
+        <div class="card">
+            <div class="icon-container">
+                <i class="checkmark">✓</i>
+            </div>
+          @*   button to go back to the products page *@
+            <h1>Success</h1>
+            <p>We received your order,<br> Thank you!</p>
+            <a href="@Url.Action("Index", "Product")" class="btn-primary">Continue Shopping</a>
+        </div>
+    </div>
+</body>
+</html>

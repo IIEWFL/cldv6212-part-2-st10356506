@@ -1,0 +1,84 @@
+﻿@model IEnumerable<ABC_Retailers.Models.CustomerTable>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Customer List</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<style>
+    <!-- display the customer images on cards -->
+/*     https://www.w3schools.com/colors/color_tryit.asp?color=Azure */
+
+    .card {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    .card-img-top {
+        max-height: 200px;
+        object-fit: contain;
+    }
+
+    .card-body {
+        padding: 15px;
+    }
+
+    .card-title {
+        font-size: 1.25rem;
+    }
+
+    .card-text {
+        font-size: 0.9rem;
+    }
+
+    .btn-primary {
+        width: 100%;
+    }
+</style>
+<body>
+  @*   https://www.geeksforgeeks.org/microsoft-azure/ *@
+    <div class="container my-4">
+        <h2 class="mb-4">Customer List</h2>
+        <p class="lead">Here you will find a list of the stored customers with the option to add a customer to the storage account.</p>
+        <a href="@Url.Action("NewCustomer", "Customer")" class="btn btn-primary mb-3">Add New Customer</a> @* button for creating a new customer linking to the NewCustomer view *@
+        <div class="row">
+          @*  displaying the customers in cards on the customer index page *@
+            @if (Model.Any())
+            {
+                @foreach (var customer in Model)
+                {
+                    <div class="col-md-4 mb-4">
+                        <div class="card">
+                            @if (!string.IsNullOrEmpty(customer.ImageURL))
+                            {
+                                <img src="@customer.ImageURL" class="card-img-top" alt="@customer.Name">
+                            }
+                            else
+                            {
+                               @*  default image to be displayed if no images are available *@
+                                <img src="https://via.placeholder.com/150" class="card-img-top" alt="No image">
+                            }
+                            <div class="card-body">
+                                <h5 class="card-title">@customer.Name @customer.Surname</h5>
+                                <p class="card-text"><strong>Email:</strong> @customer.Email</p>
+                                <p class="card-text"><strong>Age:</strong> @customer.Age</p>
+                             
+                            </div>
+                        </div>
+                    </div>
+                }
+            }
+            else
+            {
+                @* if no customers are available displayed *@
+                <div class="col-12">
+                    <div class="alert alert-info">No customers to display.</div>
+                </div>
+            }
+        </div>
+    </div>
+</body>
+</html>

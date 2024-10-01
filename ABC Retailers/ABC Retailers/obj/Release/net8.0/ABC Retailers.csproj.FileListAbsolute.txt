@@ -1,0 +1,97 @@
+C:\Users\HP\source\repos\ABC Retailers\ABC Retailers\bin\Release\net8.0\appsettings.Development.json
+C:\Users\HP\source\repos\ABC Retailers\ABC Retailers\bin\Release\net8.0\appsettings.json
+C:\Users\HP\source\repos\ABC Retailers\ABC Retailers\bin\Release\net8.0\ABC Retailers.staticwebassets.runtime.json
+C:\Users\HP\source\repos\ABC Retailers\ABC Retailers\bin\Release\net8.0\ABC Retailers.exe
+C:\Users\HP\source\repos\ABC Retailers\ABC Retailers\bin\Release\net8.0\ABC Retailers.deps.json
+C:\Users\HP\source\repos\ABC Retailers\ABC Retailers\bin\Release\net8.0\ABC Retailers.runtimeconfig.json
+C:\Users\HP\source\repos\ABC Retailers\ABC Retailers\bin\Release\net8.0\ABC Retailers.dll
+C:\Users\HP\source\repos\ABC Retailers\ABC Retailers\bin\Release\net8.0\ABC Retailers.pdb
+C:\Users\HP\source\repos\ABC Retailers\ABC Retailers\bin\Release\net8.0\Azure.Core.dll
+C:\Users\HP\source\repos\ABC Retailers\ABC Retailers\bin\Release\net8.0\Azure.Data.Tables.dll
+C:\Users\HP\source\repos\ABC Retailers\ABC Retailers\bin\Release\net8.0\Azure.Identity.dll
+C:\Users\HP\source\repos\ABC Retailers\ABC Retailers\bin\Release\net8.0\Azure.Storage.Blobs.dll
+C:\Users\HP\source\repos\ABC Retailers\ABC Retailers\bin\Release\net8.0\Azure.Storage.Common.dll
+C:\Users\HP\source\repos\ABC Retailers\ABC Retailers\bin\Release\net8.0\Azure.Storage.Files.Shares.dll
+C:\Users\HP\source\repos\ABC Retailers\ABC Retailers\bin\Release\net8.0\Azure.Storage.Queues.dll
+C:\Users\HP\source\repos\ABC Retailers\ABC Retailers\bin\Release\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HP\source\repos\ABC Retailers\ABC Retailers\bin\Release\net8.0\Microsoft.Identity.Client.dll
+C:\Users\HP\source\repos\ABC Retailers\ABC Retailers\bin\Release\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\HP\source\repos\ABC Retailers\ABC Retailers\bin\Release\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\HP\source\repos\ABC Retailers\ABC Retailers\bin\Release\net8.0\System.ClientModel.dll
+C:\Users\HP\source\repos\ABC Retailers\ABC Retailers\bin\Release\net8.0\System.IO.Hashing.dll
+C:\Users\HP\source\repos\ABC Retailers\ABC Retailers\bin\Release\net8.0\System.Memory.Data.dll
+C:\Users\HP\source\repos\ABC Retailers\ABC Retailers\bin\Release\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\source\repos\ABC Retailers\ABC Retailers\bin\Release\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\source\repos\ABC Retailers\ABC Retailers\obj\Release\net8.0\ABC Retailers.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\ABC Retailers\ABC Retailers\obj\Release\net8.0\ABC Retailers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\ABC Retailers\ABC Retailers\obj\Release\net8.0\ABC Retailers.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\ABC Retailers\ABC Retailers\obj\Release\net8.0\ABC Retailers.AssemblyInfo.cs
+C:\Users\HP\source\repos\ABC Retailers\ABC Retailers\obj\Release\net8.0\ABC Retailers.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ABC Retailers\ABC Retailers\obj\Release\net8.0\ABC Retailers.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\source\repos\ABC Retailers\ABC Retailers\obj\Release\net8.0\ABC Retailers.RazorAssemblyInfo.cache
+C:\Users\HP\source\repos\ABC Retailers\ABC Retailers\obj\Release\net8.0\ABC Retailers.RazorAssemblyInfo.cs
+C:\Users\HP\source\repos\ABC Retailers\ABC Retailers\obj\Release\net8.0\staticwebassets.build.json
+C:\Users\HP\source\repos\ABC Retailers\ABC Retailers\obj\Release\net8.0\staticwebassets.development.json
+C:\Users\HP\source\repos\ABC Retailers\ABC Retailers\obj\Release\net8.0\staticwebassets\msbuild.ABC Retailers.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\HP\source\repos\ABC Retailers\ABC Retailers\obj\Release\net8.0\staticwebassets\msbuild.build.ABC Retailers.props
+C:\Users\HP\source\repos\ABC Retailers\ABC Retailers\obj\Release\net8.0\staticwebassets\msbuild.buildMultiTargeting.ABC Retailers.props
+C:\Users\HP\source\repos\ABC Retailers\ABC Retailers\obj\Release\net8.0\staticwebassets\msbuild.buildTransitive.ABC Retailers.props
+C:\Users\HP\source\repos\ABC Retailers\ABC Retailers\obj\Release\net8.0\staticwebassets.pack.json
+C:\Users\HP\source\repos\ABC Retailers\ABC Retailers\obj\Release\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\HP\source\repos\ABC Retailers\ABC Retailers\obj\Release\net8.0\scopedcss\bundle\ABC Retailers.styles.css
+C:\Users\HP\source\repos\ABC Retailers\ABC Retailers\obj\Release\net8.0\scopedcss\projectbundle\ABC Retailers.bundle.scp.css
+C:\Users\HP\source\repos\ABC Retailers\ABC Retailers\obj\Release\net8.0\ABC Reta.13646F0C.Up2Date
+C:\Users\HP\source\repos\ABC Retailers\ABC Retailers\obj\Release\net8.0\ABC Retailers.dll
+C:\Users\HP\source\repos\ABC Retailers\ABC Retailers\obj\Release\net8.0\refint\ABC Retailers.dll
+C:\Users\HP\source\repos\ABC Retailers\ABC Retailers\obj\Release\net8.0\ABC Retailers.pdb
+C:\Users\HP\source\repos\ABC Retailers\ABC Retailers\obj\Release\net8.0\ABC Retailers.genruntimeconfig.cache
+C:\Users\HP\source\repos\ABC Retailers\ABC Retailers\obj\Release\net8.0\ref\ABC Retailers.dll
+C:\Users\HP\OneDrive\Documents\GitHub\cldv6212-part-1-st10356506\Part 1\ABC Retailers\ABC Retailers\bin\Release\net8.0\appsettings.Development.json
+C:\Users\HP\OneDrive\Documents\GitHub\cldv6212-part-1-st10356506\Part 1\ABC Retailers\ABC Retailers\bin\Release\net8.0\appsettings.json
+C:\Users\HP\OneDrive\Documents\GitHub\cldv6212-part-1-st10356506\Part 1\ABC Retailers\ABC Retailers\bin\Release\net8.0\ABC Retailers.staticwebassets.runtime.json
+C:\Users\HP\OneDrive\Documents\GitHub\cldv6212-part-1-st10356506\Part 1\ABC Retailers\ABC Retailers\bin\Release\net8.0\ABC Retailers.exe
+C:\Users\HP\OneDrive\Documents\GitHub\cldv6212-part-1-st10356506\Part 1\ABC Retailers\ABC Retailers\bin\Release\net8.0\ABC Retailers.deps.json
+C:\Users\HP\OneDrive\Documents\GitHub\cldv6212-part-1-st10356506\Part 1\ABC Retailers\ABC Retailers\bin\Release\net8.0\ABC Retailers.runtimeconfig.json
+C:\Users\HP\OneDrive\Documents\GitHub\cldv6212-part-1-st10356506\Part 1\ABC Retailers\ABC Retailers\bin\Release\net8.0\ABC Retailers.dll
+C:\Users\HP\OneDrive\Documents\GitHub\cldv6212-part-1-st10356506\Part 1\ABC Retailers\ABC Retailers\bin\Release\net8.0\ABC Retailers.pdb
+C:\Users\HP\OneDrive\Documents\GitHub\cldv6212-part-1-st10356506\Part 1\ABC Retailers\ABC Retailers\bin\Release\net8.0\Azure.Core.dll
+C:\Users\HP\OneDrive\Documents\GitHub\cldv6212-part-1-st10356506\Part 1\ABC Retailers\ABC Retailers\bin\Release\net8.0\Azure.Data.Tables.dll
+C:\Users\HP\OneDrive\Documents\GitHub\cldv6212-part-1-st10356506\Part 1\ABC Retailers\ABC Retailers\bin\Release\net8.0\Azure.Identity.dll
+C:\Users\HP\OneDrive\Documents\GitHub\cldv6212-part-1-st10356506\Part 1\ABC Retailers\ABC Retailers\bin\Release\net8.0\Azure.Storage.Blobs.dll
+C:\Users\HP\OneDrive\Documents\GitHub\cldv6212-part-1-st10356506\Part 1\ABC Retailers\ABC Retailers\bin\Release\net8.0\Azure.Storage.Common.dll
+C:\Users\HP\OneDrive\Documents\GitHub\cldv6212-part-1-st10356506\Part 1\ABC Retailers\ABC Retailers\bin\Release\net8.0\Azure.Storage.Files.Shares.dll
+C:\Users\HP\OneDrive\Documents\GitHub\cldv6212-part-1-st10356506\Part 1\ABC Retailers\ABC Retailers\bin\Release\net8.0\Azure.Storage.Queues.dll
+C:\Users\HP\OneDrive\Documents\GitHub\cldv6212-part-1-st10356506\Part 1\ABC Retailers\ABC Retailers\bin\Release\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HP\OneDrive\Documents\GitHub\cldv6212-part-1-st10356506\Part 1\ABC Retailers\ABC Retailers\bin\Release\net8.0\Microsoft.Identity.Client.dll
+C:\Users\HP\OneDrive\Documents\GitHub\cldv6212-part-1-st10356506\Part 1\ABC Retailers\ABC Retailers\bin\Release\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\HP\OneDrive\Documents\GitHub\cldv6212-part-1-st10356506\Part 1\ABC Retailers\ABC Retailers\bin\Release\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\HP\OneDrive\Documents\GitHub\cldv6212-part-1-st10356506\Part 1\ABC Retailers\ABC Retailers\bin\Release\net8.0\System.ClientModel.dll
+C:\Users\HP\OneDrive\Documents\GitHub\cldv6212-part-1-st10356506\Part 1\ABC Retailers\ABC Retailers\bin\Release\net8.0\System.IO.Hashing.dll
+C:\Users\HP\OneDrive\Documents\GitHub\cldv6212-part-1-st10356506\Part 1\ABC Retailers\ABC Retailers\bin\Release\net8.0\System.Memory.Data.dll
+C:\Users\HP\OneDrive\Documents\GitHub\cldv6212-part-1-st10356506\Part 1\ABC Retailers\ABC Retailers\bin\Release\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\OneDrive\Documents\GitHub\cldv6212-part-1-st10356506\Part 1\ABC Retailers\ABC Retailers\bin\Release\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\OneDrive\Documents\GitHub\cldv6212-part-1-st10356506\Part 1\ABC Retailers\ABC Retailers\obj\Release\net8.0\ABC Retailers.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Documents\GitHub\cldv6212-part-1-st10356506\Part 1\ABC Retailers\ABC Retailers\obj\Release\net8.0\ABC Retailers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Documents\GitHub\cldv6212-part-1-st10356506\Part 1\ABC Retailers\ABC Retailers\obj\Release\net8.0\ABC Retailers.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Documents\GitHub\cldv6212-part-1-st10356506\Part 1\ABC Retailers\ABC Retailers\obj\Release\net8.0\ABC Retailers.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Documents\GitHub\cldv6212-part-1-st10356506\Part 1\ABC Retailers\ABC Retailers\obj\Release\net8.0\ABC Retailers.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Documents\GitHub\cldv6212-part-1-st10356506\Part 1\ABC Retailers\ABC Retailers\obj\Release\net8.0\ABC Retailers.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\OneDrive\Documents\GitHub\cldv6212-part-1-st10356506\Part 1\ABC Retailers\ABC Retailers\obj\Release\net8.0\ABC Retailers.RazorAssemblyInfo.cache
+C:\Users\HP\OneDrive\Documents\GitHub\cldv6212-part-1-st10356506\Part 1\ABC Retailers\ABC Retailers\obj\Release\net8.0\ABC Retailers.RazorAssemblyInfo.cs
+C:\Users\HP\OneDrive\Documents\GitHub\cldv6212-part-1-st10356506\Part 1\ABC Retailers\ABC Retailers\obj\Release\net8.0\ABC Retailers.sourcelink.json
+C:\Users\HP\OneDrive\Documents\GitHub\cldv6212-part-1-st10356506\Part 1\ABC Retailers\ABC Retailers\obj\Release\net8.0\staticwebassets.build.json
+C:\Users\HP\OneDrive\Documents\GitHub\cldv6212-part-1-st10356506\Part 1\ABC Retailers\ABC Retailers\obj\Release\net8.0\staticwebassets.development.json
+C:\Users\HP\OneDrive\Documents\GitHub\cldv6212-part-1-st10356506\Part 1\ABC Retailers\ABC Retailers\obj\Release\net8.0\staticwebassets\msbuild.ABC Retailers.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\HP\OneDrive\Documents\GitHub\cldv6212-part-1-st10356506\Part 1\ABC Retailers\ABC Retailers\obj\Release\net8.0\staticwebassets\msbuild.build.ABC Retailers.props
+C:\Users\HP\OneDrive\Documents\GitHub\cldv6212-part-1-st10356506\Part 1\ABC Retailers\ABC Retailers\obj\Release\net8.0\staticwebassets\msbuild.buildMultiTargeting.ABC Retailers.props
+C:\Users\HP\OneDrive\Documents\GitHub\cldv6212-part-1-st10356506\Part 1\ABC Retailers\ABC Retailers\obj\Release\net8.0\staticwebassets\msbuild.buildTransitive.ABC Retailers.props
+C:\Users\HP\OneDrive\Documents\GitHub\cldv6212-part-1-st10356506\Part 1\ABC Retailers\ABC Retailers\obj\Release\net8.0\staticwebassets.pack.json
+C:\Users\HP\OneDrive\Documents\GitHub\cldv6212-part-1-st10356506\Part 1\ABC Retailers\ABC Retailers\obj\Release\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\HP\OneDrive\Documents\GitHub\cldv6212-part-1-st10356506\Part 1\ABC Retailers\ABC Retailers\obj\Release\net8.0\scopedcss\bundle\ABC Retailers.styles.css
+C:\Users\HP\OneDrive\Documents\GitHub\cldv6212-part-1-st10356506\Part 1\ABC Retailers\ABC Retailers\obj\Release\net8.0\scopedcss\projectbundle\ABC Retailers.bundle.scp.css
+C:\Users\HP\OneDrive\Documents\GitHub\cldv6212-part-1-st10356506\Part 1\ABC Retailers\ABC Retailers\obj\Release\net8.0\ABC Reta.13646F0C.Up2Date
+C:\Users\HP\OneDrive\Documents\GitHub\cldv6212-part-1-st10356506\Part 1\ABC Retailers\ABC Retailers\obj\Release\net8.0\ABC Retailers.dll
+C:\Users\HP\OneDrive\Documents\GitHub\cldv6212-part-1-st10356506\Part 1\ABC Retailers\ABC Retailers\obj\Release\net8.0\refint\ABC Retailers.dll
+C:\Users\HP\OneDrive\Documents\GitHub\cldv6212-part-1-st10356506\Part 1\ABC Retailers\ABC Retailers\obj\Release\net8.0\ABC Retailers.pdb
+C:\Users\HP\OneDrive\Documents\GitHub\cldv6212-part-1-st10356506\Part 1\ABC Retailers\ABC Retailers\obj\Release\net8.0\ABC Retailers.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Documents\GitHub\cldv6212-part-1-st10356506\Part 1\ABC Retailers\ABC Retailers\obj\Release\net8.0\ref\ABC Retailers.dll

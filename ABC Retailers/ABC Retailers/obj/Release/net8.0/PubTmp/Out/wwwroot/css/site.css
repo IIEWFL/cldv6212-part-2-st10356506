@@ -1,0 +1,33 @@
+/*https://www.w3schools.com/colors/color_tryit.asp?color=Azure */
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+.navbar-brand img {
+    height: 30px;
+    width: 30px;
+    border-radius: 50%; /* Makes the image circular */
+}
+
+.navbar-brand i {
+    font-size: 30px;
+    color: #007bff; 
+}

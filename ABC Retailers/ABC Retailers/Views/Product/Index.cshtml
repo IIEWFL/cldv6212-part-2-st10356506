@@ -1,0 +1,94 @@
+﻿@model IEnumerable<ABC_Retailers.Models.ProductTable>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product List</title>
+    <!-- Include Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        /* styling to display the products on cards on the products page */
+        .card {
+            width: 100%;
+            margin-bottom: 20px;
+        }
+
+        .card-img-top {
+            max-height: 200px;
+            object-fit: contain;
+        }
+
+        .card-body {
+            padding: 15px;
+        }
+
+        .card-title {
+            font-size: 1.25rem;
+        }2
+
+        .card-text {
+            font-size: 0.9rem;
+        }
+
+        .btn-primary {
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <div class="container my-4">
+        <h2 class="mb-4">Product List</h2>
+        @* button to add a new product, button takes you to the NewProduct page *@
+        <a href="@Url.Action("NewProduct", "Product")" class="btn btn-primary mb-3">Add New Product</a>
+        <div class="row">
+            @* displays all the products and images in the storage account *@
+            @if (Model.Any())
+            {
+                @foreach (var product in Model)
+                {
+                    <div class="col-md-4 mb-4">
+                        <div class="card">
+                            @if (!string.IsNullOrEmpty(product.ImageURL))
+                            {
+                                <img src="@product.ImageURL" class="card-img-top" alt="@product.ProductName">
+                            }
+                            else
+                            {
+                                <img src="https://via.placeholder.com/300" class="card-img-top" alt="No image">
+                            }
+                            <div class="card-body">
+                                <h5 class="card-title">@product.ProductName</h5>
+                                <p class="card-text"><strong>Description:</strong> @product.ProductDescription</p>
+                                <p class="card-text"><strong>Price:</strong> R @product.Price</p>
+                                <p class="card-text"><strong>Available Products:</strong> @product.Availability</p>
+
+                                @if (product.Availability > 0)
+                                {
+                                    <form method="get" asp-controller="Order" asp-action="NewOrder">
+                                        <input type="hidden" name="productName" value="@product.ProductName" />
+                                        <input type="hidden" name="price" value="@product.Price" />
+                                        <input type="hidden" name="description" value="@product.ProductDescription" />
+                                        <button type="submit" class="btn btn-primary">Purchase</button>
+                                    </form>
+                                }
+                                else
+                                {
+                                    <span class="text-danger">Out of stock</span>
+                                }
+                            </div>
+                        </div>
+                    </div>
+                }
+            }
+            else
+            {
+                <div class="col-12">
+                    <div class="alert alert-info">No products to display.</div>
+                </div>
+            }
+        </div>
+    </div>
+</body>
+</html>

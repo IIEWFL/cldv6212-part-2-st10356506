@@ -1,0 +1,23 @@
+C:\Users\HP\source\repos\ABC Retailers\ABC Retailers\obj\Release\net8.0\PubTmp\Out\ABC Retailers.exe
+C:\Users\HP\source\repos\ABC Retailers\ABC Retailers\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\HP\source\repos\ABC Retailers\ABC Retailers\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\HP\source\repos\ABC Retailers\ABC Retailers\obj\Release\net8.0\PubTmp\Out\ABC Retailers.dll
+C:\Users\HP\source\repos\ABC Retailers\ABC Retailers\obj\Release\net8.0\PubTmp\Out\ABC Retailers.deps.json
+C:\Users\HP\source\repos\ABC Retailers\ABC Retailers\obj\Release\net8.0\PubTmp\Out\ABC Retailers.runtimeconfig.json
+C:\Users\HP\source\repos\ABC Retailers\ABC Retailers\obj\Release\net8.0\PubTmp\Out\ABC Retailers.pdb
+C:\Users\HP\source\repos\ABC Retailers\ABC Retailers\obj\Release\net8.0\PubTmp\Out\Azure.Core.dll
+C:\Users\HP\source\repos\ABC Retailers\ABC Retailers\obj\Release\net8.0\PubTmp\Out\Azure.Data.Tables.dll
+C:\Users\HP\source\repos\ABC Retailers\ABC Retailers\obj\Release\net8.0\PubTmp\Out\Azure.Identity.dll
+C:\Users\HP\source\repos\ABC Retailers\ABC Retailers\obj\Release\net8.0\PubTmp\Out\Azure.Storage.Blobs.dll
+C:\Users\HP\source\repos\ABC Retailers\ABC Retailers\obj\Release\net8.0\PubTmp\Out\Azure.Storage.Common.dll
+C:\Users\HP\source\repos\ABC Retailers\ABC Retailers\obj\Release\net8.0\PubTmp\Out\Azure.Storage.Files.Shares.dll
+C:\Users\HP\source\repos\ABC Retailers\ABC Retailers\obj\Release\net8.0\PubTmp\Out\Azure.Storage.Queues.dll
+C:\Users\HP\source\repos\ABC Retailers\ABC Retailers\obj\Release\net8.0\PubTmp\Out\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HP\source\repos\ABC Retailers\ABC Retailers\obj\Release\net8.0\PubTmp\Out\Microsoft.Identity.Client.dll
+C:\Users\HP\source\repos\ABC Retailers\ABC Retailers\obj\Release\net8.0\PubTmp\Out\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\HP\source\repos\ABC Retailers\ABC Retailers\obj\Release\net8.0\PubTmp\Out\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\HP\source\repos\ABC Retailers\ABC Retailers\obj\Release\net8.0\PubTmp\Out\System.ClientModel.dll
+C:\Users\HP\source\repos\ABC Retailers\ABC Retailers\obj\Release\net8.0\PubTmp\Out\System.IO.Hashing.dll
+C:\Users\HP\source\repos\ABC Retailers\ABC Retailers\obj\Release\net8.0\PubTmp\Out\System.Memory.Data.dll
+C:\Users\HP\source\repos\ABC Retailers\ABC Retailers\obj\Release\net8.0\PubTmp\Out\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\source\repos\ABC Retailers\ABC Retailers\obj\Release\net8.0\PubTmp\Out\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll

@@ -1,0 +1,634 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-1-st10356506\\Part 1\\ABC Retailers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8FD15283-DDB8-4166-98E2-C45630DA0989}|ABC Retailers\\ABC Retailers.csproj|c:\\users\\hp\\onedrive\\documents\\github\\cldv6212-part-1-st10356506\\part 1\\abc retailers\\abc retailers\\abc retailers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8FD15283-DDB8-4166-98E2-C45630DA0989}|ABC Retailers\\ABC Retailers.csproj|solutionrelative:abc retailers\\abc retailers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FD15283-DDB8-4166-98E2-C45630DA0989}|ABC Retailers\\ABC Retailers.csproj|c:\\users\\hp\\onedrive\\documents\\github\\cldv6212-part-1-st10356506\\part 1\\abc retailers\\abc retailers\\services\\functionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FD15283-DDB8-4166-98E2-C45630DA0989}|ABC Retailers\\ABC Retailers.csproj|solutionrelative:abc retailers\\services\\functionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FD15283-DDB8-4166-98E2-C45630DA0989}|ABC Retailers\\ABC Retailers.csproj|c:\\users\\hp\\onedrive\\documents\\github\\cldv6212-part-1-st10356506\\part 1\\abc retailers\\abc retailers\\services\\filestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FD15283-DDB8-4166-98E2-C45630DA0989}|ABC Retailers\\ABC Retailers.csproj|solutionrelative:abc retailers\\services\\filestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FD15283-DDB8-4166-98E2-C45630DA0989}|ABC Retailers\\ABC Retailers.csproj|c:\\users\\hp\\onedrive\\documents\\github\\cldv6212-part-1-st10356506\\part 1\\abc retailers\\abc retailers\\services\\blobstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FD15283-DDB8-4166-98E2-C45630DA0989}|ABC Retailers\\ABC Retailers.csproj|solutionrelative:abc retailers\\services\\blobstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FD15283-DDB8-4166-98E2-C45630DA0989}|ABC Retailers\\ABC Retailers.csproj|c:\\users\\hp\\onedrive\\documents\\github\\cldv6212-part-1-st10356506\\part 1\\abc retailers\\abc retailers\\models\\queuemessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FD15283-DDB8-4166-98E2-C45630DA0989}|ABC Retailers\\ABC Retailers.csproj|solutionrelative:abc retailers\\models\\queuemessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FD15283-DDB8-4166-98E2-C45630DA0989}|ABC Retailers\\ABC Retailers.csproj|c:\\users\\hp\\onedrive\\documents\\github\\cldv6212-part-1-st10356506\\part 1\\abc retailers\\abc retailers\\models\\purchasequeuemessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FD15283-DDB8-4166-98E2-C45630DA0989}|ABC Retailers\\ABC Retailers.csproj|solutionrelative:abc retailers\\models\\purchasequeuemessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FD15283-DDB8-4166-98E2-C45630DA0989}|ABC Retailers\\ABC Retailers.csproj|c:\\users\\hp\\onedrive\\documents\\github\\cldv6212-part-1-st10356506\\part 1\\abc retailers\\abc retailers\\models\\producttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FD15283-DDB8-4166-98E2-C45630DA0989}|ABC Retailers\\ABC Retailers.csproj|solutionrelative:abc retailers\\models\\producttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FD15283-DDB8-4166-98E2-C45630DA0989}|ABC Retailers\\ABC Retailers.csproj|c:\\users\\hp\\onedrive\\documents\\github\\cldv6212-part-1-st10356506\\part 1\\abc retailers\\abc retailers\\models\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FD15283-DDB8-4166-98E2-C45630DA0989}|ABC Retailers\\ABC Retailers.csproj|solutionrelative:abc retailers\\models\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FD15283-DDB8-4166-98E2-C45630DA0989}|ABC Retailers\\ABC Retailers.csproj|c:\\users\\hp\\onedrive\\documents\\github\\cldv6212-part-1-st10356506\\part 1\\abc retailers\\abc retailers\\models\\customertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FD15283-DDB8-4166-98E2-C45630DA0989}|ABC Retailers\\ABC Retailers.csproj|solutionrelative:abc retailers\\models\\customertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FD15283-DDB8-4166-98E2-C45630DA0989}|ABC Retailers\\ABC Retailers.csproj|c:\\users\\hp\\onedrive\\documents\\github\\cldv6212-part-1-st10356506\\part 1\\abc retailers\\abc retailers\\controllers\\queuecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FD15283-DDB8-4166-98E2-C45630DA0989}|ABC Retailers\\ABC Retailers.csproj|solutionrelative:abc retailers\\controllers\\queuecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FD15283-DDB8-4166-98E2-C45630DA0989}|ABC Retailers\\ABC Retailers.csproj|c:\\users\\hp\\onedrive\\documents\\github\\cldv6212-part-1-st10356506\\part 1\\abc retailers\\abc retailers\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FD15283-DDB8-4166-98E2-C45630DA0989}|ABC Retailers\\ABC Retailers.csproj|solutionrelative:abc retailers\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FD15283-DDB8-4166-98E2-C45630DA0989}|ABC Retailers\\ABC Retailers.csproj|c:\\users\\hp\\onedrive\\documents\\github\\cldv6212-part-1-st10356506\\part 1\\abc retailers\\abc retailers\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FD15283-DDB8-4166-98E2-C45630DA0989}|ABC Retailers\\ABC Retailers.csproj|solutionrelative:abc retailers\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FD15283-DDB8-4166-98E2-C45630DA0989}|ABC Retailers\\ABC Retailers.csproj|c:\\users\\hp\\onedrive\\documents\\github\\cldv6212-part-1-st10356506\\part 1\\abc retailers\\abc retailers\\controllers\\filesharecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FD15283-DDB8-4166-98E2-C45630DA0989}|ABC Retailers\\ABC Retailers.csproj|solutionrelative:abc retailers\\controllers\\filesharecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FD15283-DDB8-4166-98E2-C45630DA0989}|ABC Retailers\\ABC Retailers.csproj|c:\\users\\hp\\onedrive\\documents\\github\\cldv6212-part-1-st10356506\\part 1\\abc retailers\\abc retailers\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FD15283-DDB8-4166-98E2-C45630DA0989}|ABC Retailers\\ABC Retailers.csproj|solutionrelative:abc retailers\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FD15283-DDB8-4166-98E2-C45630DA0989}|ABC Retailers\\ABC Retailers.csproj|c:\\users\\hp\\onedrive\\documents\\github\\cldv6212-part-1-st10356506\\part 1\\abc retailers\\abc retailers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FD15283-DDB8-4166-98E2-C45630DA0989}|ABC Retailers\\ABC Retailers.csproj|solutionrelative:abc retailers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FD15283-DDB8-4166-98E2-C45630DA0989}|ABC Retailers\\ABC Retailers.csproj|c:\\users\\hp\\onedrive\\documents\\github\\cldv6212-part-1-st10356506\\part 1\\abc retailers\\abc retailers\\services\\queuestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FD15283-DDB8-4166-98E2-C45630DA0989}|ABC Retailers\\ABC Retailers.csproj|solutionrelative:abc retailers\\services\\queuestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FD15283-DDB8-4166-98E2-C45630DA0989}|ABC Retailers\\ABC Retailers.csproj|c:\\users\\hp\\onedrive\\documents\\github\\cldv6212-part-1-st10356506\\part 1\\abc retailers\\abc retailers\\services\\queuebackgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FD15283-DDB8-4166-98E2-C45630DA0989}|ABC Retailers\\ABC Retailers.csproj|solutionrelative:abc retailers\\services\\queuebackgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FD15283-DDB8-4166-98E2-C45630DA0989}|ABC Retailers\\ABC Retailers.csproj|c:\\users\\hp\\onedrive\\documents\\github\\cldv6212-part-1-st10356506\\part 1\\abc retailers\\abc retailers\\services\\tablestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FD15283-DDB8-4166-98E2-C45630DA0989}|ABC Retailers\\ABC Retailers.csproj|solutionrelative:abc retailers\\services\\tablestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FD15283-DDB8-4166-98E2-C45630DA0989}|ABC Retailers\\ABC Retailers.csproj|c:\\users\\hp\\onedrive\\documents\\github\\cldv6212-part-1-st10356506\\part 1\\abc retailers\\abc retailers\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8FD15283-DDB8-4166-98E2-C45630DA0989}|ABC Retailers\\ABC Retailers.csproj|solutionrelative:abc retailers\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FD15283-DDB8-4166-98E2-C45630DA0989}|ABC Retailers\\ABC Retailers.csproj|c:\\users\\hp\\onedrive\\documents\\github\\cldv6212-part-1-st10356506\\part 1\\abc retailers\\abc retailers\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8FD15283-DDB8-4166-98E2-C45630DA0989}|ABC Retailers\\ABC Retailers.csproj|solutionrelative:abc retailers\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FD15283-DDB8-4166-98E2-C45630DA0989}|ABC Retailers\\ABC Retailers.csproj|c:\\users\\hp\\onedrive\\documents\\github\\cldv6212-part-1-st10356506\\part 1\\abc retailers\\abc retailers\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8FD15283-DDB8-4166-98E2-C45630DA0989}|ABC Retailers\\ABC Retailers.csproj|solutionrelative:abc retailers\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FD15283-DDB8-4166-98E2-C45630DA0989}|ABC Retailers\\ABC Retailers.csproj|c:\\users\\hp\\onedrive\\documents\\github\\cldv6212-part-1-st10356506\\part 1\\abc retailers\\abc retailers\\views\\file\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8FD15283-DDB8-4166-98E2-C45630DA0989}|ABC Retailers\\ABC Retailers.csproj|solutionrelative:abc retailers\\views\\file\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FD15283-DDB8-4166-98E2-C45630DA0989}|ABC Retailers\\ABC Retailers.csproj|c:\\users\\hp\\onedrive\\documents\\github\\cldv6212-part-1-st10356506\\part 1\\abc retailers\\abc retailers\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FD15283-DDB8-4166-98E2-C45630DA0989}|ABC Retailers\\ABC Retailers.csproj|solutionrelative:abc retailers\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FD15283-DDB8-4166-98E2-C45630DA0989}|ABC Retailers\\ABC Retailers.csproj|c:\\users\\hp\\onedrive\\documents\\github\\cldv6212-part-1-st10356506\\part 1\\abc retailers\\abc retailers\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FD15283-DDB8-4166-98E2-C45630DA0989}|ABC Retailers\\ABC Retailers.csproj|solutionrelative:abc retailers\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FD15283-DDB8-4166-98E2-C45630DA0989}|ABC Retailers\\ABC Retailers.csproj|c:\\users\\hp\\onedrive\\documents\\github\\cldv6212-part-1-st10356506\\part 1\\abc retailers\\abc retailers\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8FD15283-DDB8-4166-98E2-C45630DA0989}|ABC Retailers\\ABC Retailers.csproj|solutionrelative:abc retailers\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FD15283-DDB8-4166-98E2-C45630DA0989}|ABC Retailers\\ABC Retailers.csproj|c:\\users\\hp\\onedrive\\documents\\github\\cldv6212-part-1-st10356506\\part 1\\abc retailers\\abc retailers\\views\\product\\newproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8FD15283-DDB8-4166-98E2-C45630DA0989}|ABC Retailers\\ABC Retailers.csproj|solutionrelative:abc retailers\\views\\product\\newproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FD15283-DDB8-4166-98E2-C45630DA0989}|ABC Retailers\\ABC Retailers.csproj|c:\\users\\hp\\onedrive\\documents\\github\\cldv6212-part-1-st10356506\\part 1\\abc retailers\\abc retailers\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8FD15283-DDB8-4166-98E2-C45630DA0989}|ABC Retailers\\ABC Retailers.csproj|solutionrelative:abc retailers\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FD15283-DDB8-4166-98E2-C45630DA0989}|ABC Retailers\\ABC Retailers.csproj|c:\\users\\hp\\onedrive\\documents\\github\\cldv6212-part-1-st10356506\\part 1\\abc retailers\\abc retailers\\views\\order\\ordersuccess.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8FD15283-DDB8-4166-98E2-C45630DA0989}|ABC Retailers\\ABC Retailers.csproj|solutionrelative:abc retailers\\views\\order\\ordersuccess.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FD15283-DDB8-4166-98E2-C45630DA0989}|ABC Retailers\\ABC Retailers.csproj|c:\\users\\hp\\onedrive\\documents\\github\\cldv6212-part-1-st10356506\\part 1\\abc retailers\\abc retailers\\views\\order\\neworder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8FD15283-DDB8-4166-98E2-C45630DA0989}|ABC Retailers\\ABC Retailers.csproj|solutionrelative:abc retailers\\views\\order\\neworder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FD15283-DDB8-4166-98E2-C45630DA0989}|ABC Retailers\\ABC Retailers.csproj|c:\\users\\hp\\onedrive\\documents\\github\\cldv6212-part-1-st10356506\\part 1\\abc retailers\\abc retailers\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8FD15283-DDB8-4166-98E2-C45630DA0989}|ABC Retailers\\ABC Retailers.csproj|solutionrelative:abc retailers\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FD15283-DDB8-4166-98E2-C45630DA0989}|ABC Retailers\\ABC Retailers.csproj|c:\\users\\hp\\onedrive\\documents\\github\\cldv6212-part-1-st10356506\\part 1\\abc retailers\\abc retailers\\views\\file\\newfile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8FD15283-DDB8-4166-98E2-C45630DA0989}|ABC Retailers\\ABC Retailers.csproj|solutionrelative:abc retailers\\views\\file\\newfile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FD15283-DDB8-4166-98E2-C45630DA0989}|ABC Retailers\\ABC Retailers.csproj|c:\\users\\hp\\onedrive\\documents\\github\\cldv6212-part-1-st10356506\\part 1\\abc retailers\\abc retailers\\views\\customer\\newcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8FD15283-DDB8-4166-98E2-C45630DA0989}|ABC Retailers\\ABC Retailers.csproj|solutionrelative:abc retailers\\views\\customer\\newcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FD15283-DDB8-4166-98E2-C45630DA0989}|ABC Retailers\\ABC Retailers.csproj|c:\\users\\hp\\onedrive\\documents\\github\\cldv6212-part-1-st10356506\\part 1\\abc retailers\\abc retailers\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{8FD15283-DDB8-4166-98E2-C45630DA0989}|ABC Retailers\\ABC Retailers.csproj|solutionrelative:abc retailers\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FD15283-DDB8-4166-98E2-C45630DA0989}|ABC Retailers\\ABC Retailers.csproj|c:\\users\\hp\\onedrive\\documents\\github\\cldv6212-part-1-st10356506\\part 1\\abc retailers\\abc retailers\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8FD15283-DDB8-4166-98E2-C45630DA0989}|ABC Retailers\\ABC Retailers.csproj|solutionrelative:abc retailers\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Downloads\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Downloads\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 320,
+          "SelectedChildIndex": 25,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderModel.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-1-st10356506\\Part 1\\ABC Retailers\\ABC Retailers\\Models\\OrderModel.cs",
+              "RelativeDocumentMoniker": "ABC Retailers\\Models\\OrderModel.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-1-st10356506\\Part 1\\ABC Retailers\\ABC Retailers\\Models\\OrderModel.cs",
+              "RelativeToolTip": "ABC Retailers\\Models\\OrderModel.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA0wAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T16:41:15.297Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-1-st10356506\\Part 1\\ABC Retailers\\ABC Retailers\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "ABC Retailers\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-1-st10356506\\Part 1\\ABC Retailers\\ABC Retailers\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "ABC Retailers\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T16:39:38.665Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "NewOrder.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-1-st10356506\\Part 1\\ABC Retailers\\ABC Retailers\\Views\\Order\\NewOrder.cshtml",
+              "RelativeDocumentMoniker": "ABC Retailers\\Views\\Order\\NewOrder.cshtml",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-1-st10356506\\Part 1\\ABC Retailers\\ABC Retailers\\Views\\Order\\NewOrder.cshtml",
+              "RelativeToolTip": "ABC Retailers\\Views\\Order\\NewOrder.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T16:10:45.71Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-1-st10356506\\Part 1\\ABC Retailers\\ABC Retailers\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "ABC Retailers\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-1-st10356506\\Part 1\\ABC Retailers\\ABC Retailers\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "ABC Retailers\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAF4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T18:28:23.533Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductTable.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-1-st10356506\\Part 1\\ABC Retailers\\ABC Retailers\\Models\\ProductTable.cs",
+              "RelativeDocumentMoniker": "ABC Retailers\\Models\\ProductTable.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-1-st10356506\\Part 1\\ABC Retailers\\ABC Retailers\\Models\\ProductTable.cs",
+              "RelativeToolTip": "ABC Retailers\\Models\\ProductTable.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwAkAAAB9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T15:48:45.875Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-1-st10356506\\Part 1\\ABC Retailers\\ABC Retailers\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ABC Retailers\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-1-st10356506\\Part 1\\ABC Retailers\\ABC Retailers\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ABC Retailers\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAIwAwAAAB9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T15:55:16.345Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:406405925:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FunctionService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-1-st10356506\\Part 1\\ABC Retailers\\ABC Retailers\\Services\\FunctionService.cs",
+              "RelativeDocumentMoniker": "ABC Retailers\\Services\\FunctionService.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-1-st10356506\\Part 1\\ABC Retailers\\ABC Retailers\\Services\\FunctionService.cs",
+              "RelativeToolTip": "ABC Retailers\\Services\\FunctionService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T19:52:00.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-1-st10356506\\Part 1\\ABC Retailers\\ABC Retailers\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "ABC Retailers\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-1-st10356506\\Part 1\\ABC Retailers\\ABC Retailers\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "ABC Retailers\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAACBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T15:54:54.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FileShareController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-1-st10356506\\Part 1\\ABC Retailers\\ABC Retailers\\Controllers\\FileShareController.cs",
+              "RelativeDocumentMoniker": "ABC Retailers\\Controllers\\FileShareController.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-1-st10356506\\Part 1\\ABC Retailers\\ABC Retailers\\Controllers\\FileShareController.cs",
+              "RelativeToolTip": "ABC Retailers\\Controllers\\FileShareController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowAoAAABwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T18:09:09.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-1-st10356506\\Part 1\\ABC Retailers\\ABC Retailers\\appsettings.json",
+              "RelativeDocumentMoniker": "ABC Retailers\\appsettings.json",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-1-st10356506\\Part 1\\ABC Retailers\\ABC Retailers\\appsettings.json",
+              "RelativeToolTip": "ABC Retailers\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-21T17:51:49.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "QueueController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-1-st10356506\\Part 1\\ABC Retailers\\ABC Retailers\\Controllers\\QueueController.cs",
+              "RelativeDocumentMoniker": "ABC Retailers\\Controllers\\QueueController.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-1-st10356506\\Part 1\\ABC Retailers\\ABC Retailers\\Controllers\\QueueController.cs",
+              "RelativeToolTip": "ABC Retailers\\Controllers\\QueueController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T18:08:35.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-1-st10356506\\Part 1\\ABC Retailers\\ABC Retailers\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ABC Retailers\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-1-st10356506\\Part 1\\ABC Retailers\\ABC Retailers\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ABC Retailers\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T11:00:04.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "QueueMessage.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-1-st10356506\\Part 1\\ABC Retailers\\ABC Retailers\\Models\\QueueMessage.cs",
+              "RelativeDocumentMoniker": "ABC Retailers\\Models\\QueueMessage.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-1-st10356506\\Part 1\\ABC Retailers\\ABC Retailers\\Models\\QueueMessage.cs",
+              "RelativeToolTip": "ABC Retailers\\Models\\QueueMessage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAABwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T18:24:49.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BlobStorage.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-1-st10356506\\Part 1\\ABC Retailers\\ABC Retailers\\Services\\BlobStorage.cs",
+              "RelativeDocumentMoniker": "ABC Retailers\\Services\\BlobStorage.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-1-st10356506\\Part 1\\ABC Retailers\\ABC Retailers\\Services\\BlobStorage.cs",
+              "RelativeToolTip": "ABC Retailers\\Services\\BlobStorage.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwAcAAAB5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T15:52:50.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TableStorageService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-1-st10356506\\Part 1\\ABC Retailers\\ABC Retailers\\Services\\TableStorageService.cs",
+              "RelativeDocumentMoniker": "ABC Retailers\\Services\\TableStorageService.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-1-st10356506\\Part 1\\ABC Retailers\\ABC Retailers\\Services\\TableStorageService.cs",
+              "RelativeToolTip": "ABC Retailers\\Services\\TableStorageService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAGAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T15:52:22.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "QueueStorageService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-1-st10356506\\Part 1\\ABC Retailers\\ABC Retailers\\Services\\QueueStorageService.cs",
+              "RelativeDocumentMoniker": "ABC Retailers\\Services\\QueueStorageService.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-1-st10356506\\Part 1\\ABC Retailers\\ABC Retailers\\Services\\QueueStorageService.cs",
+              "RelativeToolTip": "ABC Retailers\\Services\\QueueStorageService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T18:07:20.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileStorageService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-1-st10356506\\Part 1\\ABC Retailers\\ABC Retailers\\Services\\FileStorageService.cs",
+              "RelativeDocumentMoniker": "ABC Retailers\\Services\\FileStorageService.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-1-st10356506\\Part 1\\ABC Retailers\\ABC Retailers\\Services\\FileStorageService.cs",
+              "RelativeToolTip": "ABC Retailers\\Services\\FileStorageService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAB9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T18:07:47.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-1-st10356506\\Part 1\\ABC Retailers\\ABC Retailers\\Program.cs",
+              "RelativeDocumentMoniker": "ABC Retailers\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-1-st10356506\\Part 1\\ABC Retailers\\ABC Retailers\\Program.cs",
+              "RelativeToolTip": "ABC Retailers\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAB5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T15:55:31.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PurchaseQueueMessage.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-1-st10356506\\Part 1\\ABC Retailers\\ABC Retailers\\Models\\PurchaseQueueMessage.cs",
+              "RelativeDocumentMoniker": "ABC Retailers\\Models\\PurchaseQueueMessage.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-1-st10356506\\Part 1\\ABC Retailers\\ABC Retailers\\Models\\PurchaseQueueMessage.cs",
+              "RelativeToolTip": "ABC Retailers\\Models\\PurchaseQueueMessage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T22:21:21.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-1-st10356506\\Part 1\\ABC Retailers\\ABC Retailers\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "ABC Retailers\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-1-st10356506\\Part 1\\ABC Retailers\\ABC Retailers\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "ABC Retailers\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T21:34:25.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustomerTable.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-1-st10356506\\Part 1\\ABC Retailers\\ABC Retailers\\Models\\CustomerTable.cs",
+              "RelativeDocumentMoniker": "ABC Retailers\\Models\\CustomerTable.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-1-st10356506\\Part 1\\ABC Retailers\\ABC Retailers\\Models\\CustomerTable.cs",
+              "RelativeToolTip": "ABC Retailers\\Models\\CustomerTable.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAuwAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T15:48:19.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "QueueBackgroundService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-1-st10356506\\Part 1\\ABC Retailers\\ABC Retailers\\Services\\QueueBackgroundService.cs",
+              "RelativeDocumentMoniker": "ABC Retailers\\Services\\QueueBackgroundService.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-1-st10356506\\Part 1\\ABC Retailers\\ABC Retailers\\Services\\QueueBackgroundService.cs",
+              "RelativeToolTip": "ABC Retailers\\Services\\QueueBackgroundService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T23:03:54.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ABC Retailers.csproj",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-1-st10356506\\Part 1\\ABC Retailers\\ABC Retailers\\ABC Retailers.csproj",
+              "RelativeDocumentMoniker": "ABC Retailers\\ABC Retailers.csproj",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-1-st10356506\\Part 1\\ABC Retailers\\ABC Retailers\\ABC Retailers.csproj",
+              "RelativeToolTip": "ABC Retailers\\ABC Retailers.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-23T11:10:20.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-1-st10356506\\Part 1\\ABC Retailers\\ABC Retailers\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ABC Retailers\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-1-st10356506\\Part 1\\ABC Retailers\\ABC Retailers\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ABC Retailers\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T17:41:40.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-1-st10356506\\Part 1\\ABC Retailers\\ABC Retailers\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ABC Retailers\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-1-st10356506\\Part 1\\ABC Retailers\\ABC Retailers\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ABC Retailers\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAAAIMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-23T16:20:14.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "OrderSuccess.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-1-st10356506\\Part 1\\ABC Retailers\\ABC Retailers\\Views\\Order\\OrderSuccess.cshtml",
+              "RelativeDocumentMoniker": "ABC Retailers\\Views\\Order\\OrderSuccess.cshtml",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-1-st10356506\\Part 1\\ABC Retailers\\ABC Retailers\\Views\\Order\\OrderSuccess.cshtml",
+              "RelativeToolTip": "ABC Retailers\\Views\\Order\\OrderSuccess.cshtml",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAFUAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T22:37:32.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "NewProduct.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-1-st10356506\\Part 1\\ABC Retailers\\ABC Retailers\\Views\\Product\\NewProduct.cshtml",
+              "RelativeDocumentMoniker": "ABC Retailers\\Views\\Product\\NewProduct.cshtml",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-1-st10356506\\Part 1\\ABC Retailers\\ABC Retailers\\Views\\Product\\NewProduct.cshtml",
+              "RelativeToolTip": "ABC Retailers\\Views\\Product\\NewProduct.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T18:28:57.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "NewFile.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-1-st10356506\\Part 1\\ABC Retailers\\ABC Retailers\\Views\\File\\NewFile.cshtml",
+              "RelativeDocumentMoniker": "ABC Retailers\\Views\\File\\NewFile.cshtml",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-1-st10356506\\Part 1\\ABC Retailers\\ABC Retailers\\Views\\File\\NewFile.cshtml",
+              "RelativeToolTip": "ABC Retailers\\Views\\File\\NewFile.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-23T20:06:49.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-1-st10356506\\Part 1\\ABC Retailers\\ABC Retailers\\Views\\File\\Index.cshtml",
+              "RelativeDocumentMoniker": "ABC Retailers\\Views\\File\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-1-st10356506\\Part 1\\ABC Retailers\\ABC Retailers\\Views\\File\\Index.cshtml",
+              "RelativeToolTip": "ABC Retailers\\Views\\File\\Index.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-23T20:06:29.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-1-st10356506\\Part 1\\ABC Retailers\\ABC Retailers\\Views\\Customer\\Index.cshtml",
+              "RelativeDocumentMoniker": "ABC Retailers\\Views\\Customer\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-1-st10356506\\Part 1\\ABC Retailers\\ABC Retailers\\Views\\Customer\\Index.cshtml",
+              "RelativeToolTip": "ABC Retailers\\Views\\Customer\\Index.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-23T20:32:51.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "NewCustomer.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-1-st10356506\\Part 1\\ABC Retailers\\ABC Retailers\\Views\\Customer\\NewCustomer.cshtml",
+              "RelativeDocumentMoniker": "ABC Retailers\\Views\\Customer\\NewCustomer.cshtml",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-1-st10356506\\Part 1\\ABC Retailers\\ABC Retailers\\Views\\Customer\\NewCustomer.cshtml",
+              "RelativeToolTip": "ABC Retailers\\Views\\Customer\\NewCustomer.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-24T23:32:05.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "favicon.ico -  [English (United States)] - Icon [32x32, 32 bit, BMP]",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-1-st10356506\\Part 1\\ABC Retailers\\ABC Retailers\\wwwroot\\favicon.ico",
+              "RelativeDocumentMoniker": "ABC Retailers\\wwwroot\\favicon.ico",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-1-st10356506\\Part 1\\ABC Retailers\\ABC Retailers\\wwwroot\\favicon.ico -  [English (United States)] - Icon [32x32, 32 bit, BMP]",
+              "RelativeToolTip": "ABC Retailers\\wwwroot\\favicon.ico -  [English (United States)] - Icon [32x32, 32 bit, BMP]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2024-08-28T13:49:40.693Z",
+              "EditorCaption": " -  [English (United States)] - Icon [32x32, 32 bit, BMP]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-1-st10356506\\Part 1\\ABC Retailers\\ABC Retailers\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "ABC Retailers\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-1-st10356506\\Part 1\\ABC Retailers\\ABC Retailers\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "ABC Retailers\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAYwAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-25T21:43:38.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-1-st10356506\\Part 1\\ABC Retailers\\ABC Retailers\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "ABC Retailers\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-1-st10356506\\Part 1\\ABC Retailers\\ABC Retailers\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "ABC Retailers\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-21T17:43:17.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "bootstrap.min.css",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\bootstrap.min.css",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Downloads\\bootstrap.min.css",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\bootstrap.min.css",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Downloads\\bootstrap.min.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-23T12:05:40.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\bootstrap.css",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Downloads\\bootstrap.css",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\bootstrap.css",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Downloads\\bootstrap.css",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-23T12:07:13.422Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
